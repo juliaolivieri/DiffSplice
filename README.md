@@ -16,3 +16,5 @@
 
 * `spliz_PCA`: k-means clusering based on ATP5F1C and RPS24, as well as plotting
 
+* `test_effect_size_filter`: deciding on which effect size cutoff to use for cell type analysis (with plots)
+
