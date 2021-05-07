@@ -18,3 +18,6 @@
 
 * `test_effect_size_filter`: deciding on which effect size cutoff to use for cell type analysis (with plots)
 
+* `significance_tables`: Create tables of genes called as 'significant' and get number called by cell type or compartment 
+
+* `Biology_paper_numbers_v2`: output number of cells per dataset
